@@ -1,4 +1,4 @@
-<img align="center"src="headerGraphic.svg" width="1000" height="150" alt="Robson Harrison">
+<img align="center" src="headerGraphic.svg" width="1000" height="150" alt="Robson Harrison">
 
 <h3 align="center">Highly adaptable and trained full stack software developer currently focusing on BrightScript, enhancing the Roku streaming experience for a global media leader with demonstrable experience building world class streaming applications that are used by millions of people worldwide.</h3>
 
