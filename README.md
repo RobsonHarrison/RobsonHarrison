@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on Video Player SDK for [**Sky and NBCUniversal (NBCU)**](www.Sky.com)
 
-- 🌱 I’m currently learning **Swift iOS**
-
 - 💬 Ask me about **BrightScript**
 
-- 📫 How to reach me **<robson.lc.harrison@gmail.com>**
+- 📫 How to reach me **<robson.lc.harrison@protonmail.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
